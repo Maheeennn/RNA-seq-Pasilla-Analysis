@@ -32,6 +32,8 @@ What genes and biological pathways are differentially expressed in *Drosophila m
 ---
 
 ## Pipeline
+
+```
 Raw FASTQ reads
 ↓
 Step 00: Data Upload and Collection Setup
@@ -45,6 +47,8 @@ Step 03: Strandness Estimation and Read Counting — featureCounts
 Step 04: Differential Expression Analysis — DESeq2
 ↓
 Step 05: Functional Enrichment — GO and KEGG via goseq and Pathview
+```
+
 
 ---
 
@@ -68,6 +72,8 @@ Step 05: Functional Enrichment — GO and KEGG via goseq and Pathview
 ---
 
 ## Repository Structure
+
+```
 RNA-seq-Pasilla-Analysis/
 ├── README.md
 ├── steps/
@@ -79,6 +85,7 @@ RNA-seq-Pasilla-Analysis/
 │   └── step_05_functional_enrichment_GO_KEGG.md
 ├── images/
 └── data/
+```
 
 ---
 
