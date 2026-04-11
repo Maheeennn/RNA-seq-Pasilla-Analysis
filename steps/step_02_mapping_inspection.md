@@ -118,7 +118,7 @@ version (dm6 here).
 
 **Region inspected:** `chr4:540,000-560,000`
 
-![IGV chr4 mapping view](Step02_IGV_chr4_mapping.png)
+![IGV chr4 mapping view](../images/Step02_IGV_chr4_mapping.png)
 
 **Observations:**
 - Grey coverage peaks confirm reads map to known expressed regions 
@@ -133,7 +133,7 @@ version (dm6 here).
 
 **Region inspected:** `chr4:540,000-560,000`
 
-![IGV Sashimi plot showing splice junctions](Step02_IGV_Sashimi_plot.png)
+![IGV Sashimi plot showing splice junctions](../images/Step02_IGV_Sashimi_plot.png)
 
 **Observations:**
 - Red vertical bars represent per-position read depth
@@ -163,7 +163,7 @@ version (dm6 here).
 | Track 2 Type | GFF/GFF3/BED Features |
 | Track 2 Data | Drosophila_melanogaster.BDGP6.32.109_UCSC.gtf.gz |
 
-![JBrowse2 chr4 view showing both samples and gene annotations](Step02_JBrowse2_chr4_mapping.png)
+![JBrowse2 chr4 view showing both samples and gene annotations](../images/Step02_JBrowse2_chr4_mapping.png)
 
 **Observations:**
 - Both `GSM461180_treat_paired` and `GSM461177_untreat_paired` 
