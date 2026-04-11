@@ -203,13 +203,4 @@ version (dm6 here).
 - Annotation: Drosophila_melanogaster.BDGP6.32.109_UCSC.gtf.gz
 - Zenodo source: https://zenodo.org/record/6457007
 
----
 
-## References
-
-- Dobin et al. 2013 — STAR aligner: 
-  https://academic.oup.com/bioinformatics/article/29/1/15/272537
-- Ewels et al. 2016 — MultiQC: 
-  https://academic.oup.com/bioinformatics/article/32/19/3047/2196507
-- Robinson et al. 2011 — IGV: 
-  https://www.nature.com/articles/nbt.1754
